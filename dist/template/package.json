@@ -1,0 +1,38 @@
+{
+    "name": "nuxt3-starter",
+    "private": true,
+    "author": "Michał Kuncio (https://michalkuncio.com/)",
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "postinstall": "nuxt prepare",
+        "test:unit": "vitest --config ./vitest.config.ts",
+        "story:dev": "histoire dev --port 3001",
+        "story:build": "histoire build",
+        "story:preview": "histoire preview"
+    },
+    "devDependencies": {
+        "@histoire/plugin-nuxt": "^0.11.7",
+        "@histoire/plugin-vue": "^0.11.7",
+        "@nuxtjs/eslint-config-typescript": "^12.0.0",
+        "eslint": "^8.28.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-plugin-nuxt": "^4.0.0",
+        "eslint-plugin-prettier": "^4.2.1",
+        "happy-dom": "^7.7.0",
+        "histoire": "^0.11.7",
+        "nuxt": "3.0.0",
+        "sass": "^1.56.1",
+        "stylelint": "^14.15.0",
+        "stylelint-config-recommended-vue": "^1.4.0",
+        "stylelint-config-standard-scss": "^6.1.0",
+        "vue": "^3.2.45"
+    },
+    "dependencies": {
+        "@pinia/nuxt": "^0.4.4",
+        "pinia": "^2.0.24",
+        "vitest": "^0.25.2"
+    }
+}

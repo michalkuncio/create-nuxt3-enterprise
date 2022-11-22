@@ -1,0 +1,14 @@
+:root {
+    --green: #00dc82;
+    --white: #fff;
+    --gray: #18181b;
+}
+
+body {
+    font-size: 14px;
+    background: var(--gray);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--white);
+}

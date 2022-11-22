@@ -1,0 +1,22 @@
+{
+  "name": "create-nuxt3-enterprise",
+  "version": "0.1.0",
+  "description": "Create Nuxt 3 app with out of the box features",
+  "keywords": ["nuxt", "nuxt3", "enterprise", "vue", "starter"],
+  "author": "Michał Kuncio <michal.kuncio@protonmail.com> (https://michalkuncio.com/)",
+  "homepage": "https://github.com/michalkuncio/create-nuxt3-enterprise",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalkuncio/create-nuxt3-enterprise.git"
+  },
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "inquirer": "^9.1.4"
+  },
+  "bin": {
+    "create-nuxt3-enterprise": "./dist/index.js"
+  }
+}
