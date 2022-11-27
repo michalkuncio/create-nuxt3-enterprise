@@ -33,6 +33,7 @@
     "dependencies": {
         "@pinia/nuxt": "^0.4.4",
         "pinia": "^2.0.24",
-        "vitest": "^0.25.2"
+        "vitest": "^0.25.2",
+        "zod": "^3.19.1"
     }
 }

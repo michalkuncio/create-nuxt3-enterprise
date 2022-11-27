@@ -17,6 +17,7 @@ npx create-nuxt3-enterprise
 - eslint/prettier config 💜
 - pinia state management 🍍
 - histoire for user stories 📗
+- zod for schema validation 💎
 - pages 📄
 - API routes 🗄️
 - server middlewares 🔀
