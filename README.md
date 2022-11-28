@@ -15,6 +15,7 @@ npx create-nuxt3-enterprise
 ## Features
 - official nuxt directory structure out of the box 📂
 - eslint/prettier config 💜
+- stylelint 🎨
 - pinia state management 🍍
 - histoire for user stories 📗
 - zod for schema validation 💎
