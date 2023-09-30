@@ -1,6 +1,6 @@
 {
   "name": "create-nuxt3-enterprise",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Create Nuxt 3 app with out of the box features",
   "keywords": ["nuxt", "nuxt3", "enterprise", "vue", "starter"],
   "author": "Michał Kuncio <michal.kuncio@protonmail.com> (https://michalkuncio.com/)",
